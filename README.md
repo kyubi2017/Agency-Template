@@ -1,6 +1,6 @@
 
 # Leon - Agency Template
 
--live demo [click here](https://product-preview-card-sooty-seven.vercel.app/)
+-live demo [click here](https://transcendent-buttercream-d51692.netlify.app/)
 
 ### Built with vite
